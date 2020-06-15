@@ -1,3 +1,5 @@
+/* Here, comments about variable, notations and useful tips are mentioned.*/
+
 using System;
 
 namespace SketchyWorld
