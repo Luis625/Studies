@@ -42,7 +42,7 @@ namespace SketchyWorld
  * It's not a primitive type, so affecs your performance, but the advantage is a higher-precision floating-point number.
  * To specify the type Decimal to a value, you can also use this: 4.192848M */
 
-/* C# diferenciates single from double quotes. So "A" is a string with one character and 'A' is a char type. 
+/* C# diferenciates single from double quotes. So "A" is a string with one character and 'A' is a char type. */
 
 /* There is a type called object. It's a more primitive type, or a root type, from wich all other types that are
 intrinsec or user-defined are hierarchy derived. */ 
